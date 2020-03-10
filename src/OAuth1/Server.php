@@ -31,7 +31,7 @@ abstract class Server extends BaseServer
      *
      * @var string
      */
-    protected $scopeSeparator = ',';
+    protected $scopeSeparator = ' ';
 
     /**
      * Retrieves token credentials by passing in the temporary credentials,
