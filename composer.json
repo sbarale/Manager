@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/manager",
+    "name": "sbarale/manager",
     "description": "Easily add new or override built-in providers in Laravel Socialite.",
     "license": "MIT",
     "authors": [{
